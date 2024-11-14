@@ -1,5 +1,10 @@
 # PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24
 
+### NAME : Delli Priya L
+### REGISTER NO : 212222230029
+### EX. NO : 5
+### DATE : 
+
 #  MATRIX TRANSPOSITION USING SHARED MEMORY
 Implement Matrix transposition using GPU Shared memory. 
 
